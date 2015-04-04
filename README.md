@@ -1,4 +1,6 @@
 BatMon-Arduino
 ==============
+This small program runs on Arduino. 
+It tranfers measures analog voltages and sends that data, via serial, to a service running on a host computer.
 
-Code running on an Arduino that is compatible with the BatMonService running as Windows service.
+The host software is currenltly proprietary.
